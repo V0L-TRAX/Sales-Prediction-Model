@@ -1,4 +1,4 @@
-# Sales Prediction Model — Task 03
+# Sales Prediction Model
 
 ## Objective
 Build a machine-learning model to forecast sales from historical sales-related data.

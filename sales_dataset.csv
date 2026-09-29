@@ -1,0 +1,1001 @@
+Month,Region,Product_Category,Sales_Channel,Quantity,Unit_Price,Advertising_Spend,Discount_Percent,Customers,Sales
+10,Delhi,Sports,Wholesale,67,362.61,44332.62,0.57,1281,192853.19
+9,Hyderabad,Groceries,Online,170,3478.47,59198.37,13.65,298,251897.0
+12,Hyderabad,Clothing,Retail Store,11,4762.38,5061.02,18.54,971,121773.57
+12,Bangalore,Sports,Retail Store,92,4179.92,66262.95,13.81,784,269331.37
+9,Bangalore,Electronics,Wholesale,161,1530.55,73226.7,3.92,937,359825.98
+5,Chennai,Sports,Online,191,455.96,58875.39,11.92,213,164728.21
+8,Delhi,Sports,Retail Store,54,4713.69,52173.09,12.35,726,260115.02
+6,Hyderabad,Clothing,Online,132,4697.9,81943.97,5.63,957,481845.67
+8,Mumbai,Groceries,Wholesale,42,2755.59,69730.41,22.69,544,151091.59
+10,Delhi,Clothing,Retail Store,27,3283.12,31417.03,9.64,1318,309856.18
+5,Bangalore,Furniture,Retail Store,74,2420.48,96111.97,17.67,817,310364.68
+7,Chennai,Groceries,Retail Store,178,2214.87,72190.38,15.47,575,194383.66
+1,Hyderabad,Furniture,Online,140,773.35,98854.2,26.32,94,113415.83
+9,Hyderabad,Furniture,Wholesale,100,664.41,97269.83,3.66,294,201798.42
+6,Hyderabad,Clothing,Retail Store,60,1317.11,92296.42,3.43,741,185362.37
+6,Hyderabad,Sports,Online,32,4215.88,76760.3,9.01,630,207959.09
+7,Bangalore,Furniture,Retail Store,58,900.0,62895.79,12.94,1313,351625.16
+3,Delhi,Clothing,Wholesale,34,1288.15,21356.21,8.96,1189,198161.39
+8,Chennai,Electronics,Wholesale,41,2833.35,56618.38,22.9,280,161014.14
+9,Bangalore,Electronics,Retail Store,139,1232.63,77710.77,7.36,907,357854.11
+5,Bangalore,Electronics,Online,31,983.39,54481.43,2.54,708,254556.25
+2,Mumbai,Electronics,Retail Store,14,2903.92,87482.72,12.41,196,184909.64
+5,Delhi,Sports,Retail Store,111,1966.85,15417.31,23.2,1015,220371.07
+3,Chennai,Sports,Retail Store,61,3205.56,41189.33,25.52,828,207480.8
+5,Hyderabad,Sports,Online,94,4578.59,53066.62,22.0,176,175798.29
+8,Hyderabad,Electronics,Retail Store,32,924.77,46070.9,16.74,728,248677.27
+2,Bangalore,Electronics,Retail Store,46,4584.48,15315.72,21.73,1110,294294.04
+9,Chennai,Furniture,Wholesale,91,4531.95,19585.19,20.44,524,149971.61
+3,Bangalore,Clothing,Retail Store,140,4179.62,84573.64,7.03,567,389185.94
+11,Bangalore,Furniture,Retail Store,86,3230.17,51016.5,16.52,209,245054.95
+9,Bangalore,Clothing,Retail Store,111,3176.7,9628.63,23.12,346,180606.37
+4,Mumbai,Electronics,Online,107,3268.22,6566.67,9.51,1472,522363.11
+7,Delhi,Groceries,Online,57,3514.38,49980.16,19.62,950,219878.15
+2,Bangalore,Furniture,Wholesale,59,279.11,20615.98,14.44,305,66306.16
+2,Chennai,Electronics,Wholesale,88,4798.84,71986.96,15.09,749,294230.09
+12,Delhi,Groceries,Wholesale,11,3010.9,80555.73,2.7,329,179791.85
+10,Chennai,Sports,Retail Store,139,3951.04,26688.19,19.99,691,227266.12
+2,Chennai,Electronics,Online,125,2010.95,61256.81,25.97,261,177183.62
+4,Mumbai,Clothing,Wholesale,65,259.51,19672.24,4.24,947,141042.21
+3,Hyderabad,Sports,Retail Store,78,2646.73,33840.35,,876,191919.8
+5,Delhi,Groceries,Online,69,2634.51,89435.57,1.46,968,289865.17
+4,Hyderabad,Sports,Wholesale,132,2297.55,56689.32,0.89,693,239600.36
+4,Hyderabad,Clothing,Wholesale,153,1830.64,89159.43,29.69,464,187590.33
+7,Mumbai,Furniture,Wholesale,26,1399.17,26398.54,14.8,411,103271.78
+3,Delhi,Groceries,Online,86,2732.22,36352.31,10.67,361,157640.78
+11,Chennai,Electronics,Wholesale,7,2001.34,49740.45,8.25,672,136251.85
+9,Bangalore,Furniture,Retail Store,93,4855.67,50607.61,29.4,704,248967.2
+10,Chennai,Groceries,Retail Store,53,1030.05,99776.56,7.57,1026,248343.54
+3,Hyderabad,Groceries,Wholesale,70,1734.39,15872.31,21.77,126,89942.84
+9,Hyderabad,Electronics,Retail Store,94,1611.01,85936.68,8.51,458,257046.92
+11,Hyderabad,Clothing,Online,68,2807.88,87049.79,2.11,1286,353956.32
+3,Delhi,Furniture,Online,82,2596.55,57553.87,20.5,1377,359517.97
+10,Mumbai,Clothing,Retail Store,154,3289.95,37683.53,0.05,1399,475715.89
+5,Bangalore,Sports,Wholesale,163,4760.01,54326.48,20.27,494,270671.09
+10,Bangalore,Electronics,Wholesale,6,1569.06,32784.43,7.51,248,104175.98
+6,Delhi,Sports,Retail Store,79,3525.3,80915.21,22.38,337,197735.37
+10,Bangalore,Clothing,Wholesale,170,320.19,52336.52,23.09,241,113926.26
+2,Delhi,Groceries,Wholesale,108,1459.46,92955.01,21.72,1434,230110.16
+5,Hyderabad,Clothing,Retail Store,45,2425.85,64155.68,0.73,1330,242354.07
+4,Hyderabad,Furniture,Retail Store,121,348.77,53860.34,21.11,1225,287269.21
+3,Chennai,Groceries,Wholesale,33,3164.81,72551.59,29.7,1108,233645.53
+4,Hyderabad,Groceries,Retail Store,9,3455.89,52873.63,7.28,547,76741.47
+5,Mumbai,Electronics,Online,128,3784.31,90928.1,8.23,739,524179.2
+2,Chennai,Groceries,Wholesale,105,2679.56,22522.37,24.41,1270,119711.04
+9,Bangalore,Groceries,Retail Store,153,3098.93,97468.12,4.81,1230,406049.46
+7,Mumbai,Furniture,Retail Store,72,2101.11,82158.1,19.82,802,310275.96
+10,Chennai,Sports,Wholesale,172,398.01,86769.67,22.65,1264,245629.29
+9,Mumbai,Groceries,Wholesale,87,679.77,50876.24,1.11,552,142908.51
+2,Delhi,Furniture,Online,149,3343.98,84534.15,16.61,649,391812.42
+1,Bangalore,Electronics,Retail Store,24,4978.67,34143.54,17.28,1267,288524.54
+6,Hyderabad,Groceries,Online,24,275.86,77385.08,9.1,595,142503.29
+6,Delhi,Furniture,Retail Store,158,2876.4,18342.77,26.29,1140,258799.51
+3,Bangalore,Groceries,Retail Store,168,3804.84,34169.93,4.88,707,284172.41
+10,Delhi,Clothing,Retail Store,189,4168.52,47344.6,10.93,481,311113.01
+7,Hyderabad,Clothing,Wholesale,68,2816.98,35620.37,,367,58942.91
+9,Bangalore,Electronics,Retail Store,9,3175.6,41766.63,5.72,929,277154.01
+2,Mumbai,Groceries,Retail Store,197,3544.28,82909.95,24.64,745,262726.14
+10,Mumbai,Electronics,Retail Store,122,4323.04,29384.21,2.37,585,482663.26
+3,Bangalore,Clothing,Online,53,786.99,75801.71,14.68,1127,210590.84
+6,Hyderabad,Sports,Online,154,4645.67,12002.65,2.26,51,288914.47
+6,Chennai,Sports,Wholesale,182,324.88,77745.22,20.34,183,123727.04
+10,Bangalore,Sports,Online,60,4213.76,80242.21,23.72,1444,309676.4
+4,Delhi,Sports,Online,155,568.35,43161.38,25.5,1012,263919.39
+3,Chennai,Clothing,Wholesale,159,1134.22,73635.39,29.44,846,92857.79
+5,Hyderabad,Furniture,Online,103,218.69,91938.15,20.16,71,163715.13
+5,Hyderabad,Sports,Retail Store,128,2337.23,81067.73,23.07,917,215214.12
+3,Delhi,Sports,Wholesale,57,1804.92,42092.42,15.17,680,182923.13
+3,Mumbai,Sports,Retail Store,187,996.77,51000.28,27.38,919,314934.57
+3,Hyderabad,Groceries,Online,197,2365.23,79038.97,19.31,109,99735.06
+6,Chennai,Electronics,Online,197,2131.38,32796.49,26.51,848,267640.79
+5,Bangalore,Clothing,Wholesale,149,3884.77,81368.86,7.06,887,301040.16
+5,Chennai,Clothing,Online,13,4487.03,36166.76,14.9,470,124549.58
+9,Chennai,Sports,Wholesale,76,3332.32,81569.11,21.89,129,124648.22
+3,Mumbai,Furniture,Online,92,797.17,13246.04,6.08,1458,323270.7
+11,Chennai,Furniture,Online,193,1617.88,9217.74,6.34,1078,277869.93
+10,Mumbai,Electronics,Wholesale,112,4583.93,99779.17,29.34,951,368435.52
+3,Mumbai,Sports,Wholesale,110,625.93,87598.43,13.04,1162,220386.04
+4,Hyderabad,Groceries,Wholesale,33,2152.91,88870.51,5.45,1022,215040.18
+3,Hyderabad,Electronics,Wholesale,160,4724.02,95371.6,9.94,244,371104.33
+4,Delhi,Clothing,Online,70,4763.19,46640.05,11.92,709,215443.31
+5,Chennai,Clothing,Wholesale,23,2173.78,32249.38,18.69,1338,210516.28
+2,Delhi,Clothing,Wholesale,198,3403.51,17352.37,27.69,467,117659.82
+1,Chennai,Sports,Online,42,2392.38,52614.87,29.6,1459,310582.4
+6,Delhi,Electronics,Online,8,3816.61,25904.59,19.55,143,124152.93
+9,Hyderabad,Furniture,Wholesale,20,351.59,93877.33,21.0,529,146402.31
+4,Hyderabad,Electronics,Online,93,891.95,5380.3,9.65,557,139733.21
+11,Hyderabad,Furniture,Wholesale,25,3148.15,18603.69,25.71,945,159508.18
+5,Hyderabad,Sports,Online,170,1316.25,28415.21,6.53,305,210055.71
+11,Bangalore,Sports,Online,105,3397.05,23900.89,3.19,382,295097.31
+3,Hyderabad,Electronics,Online,68,1885.87,26448.95,29.2,1010,229689.34
+7,Mumbai,Groceries,Online,5,4455.9,67324.52,25.92,462,144821.5
+10,Hyderabad,Furniture,Wholesale,99,4132.45,36113.65,9.11,1324,323631.16
+1,Bangalore,Electronics,Wholesale,34,2565.62,63427.32,20.26,1311,343890.41
+12,Bangalore,Furniture,Wholesale,196,,89574.5,14.01,488,399084.54
+5,Bangalore,Electronics,Wholesale,62,1501.46,62242.89,9.69,861,245094.38
+6,Bangalore,Clothing,Online,98,2572.45,70980.62,8.6,532,243246.36
+8,Delhi,Sports,Wholesale,8,1147.91,39722.81,4.08,550,106005.59
+8,Delhi,Clothing,Retail Store,30,4332.25,20175.15,16.48,1022,145176.1
+1,Mumbai,Groceries,Retail Store,45,4150.72,35455.49,13.4,475,116040.02
+11,Delhi,Clothing,Wholesale,15,4530.32,96606.85,15.37,266,193650.76
+8,Bangalore,Electronics,Wholesale,147,4411.89,64072.08,6.46,425,430180.93
+12,Hyderabad,Electronics,Wholesale,190,4806.06,31363.56,28.16,1397,341061.01
+6,Hyderabad,Furniture,Retail Store,198,1296.01,47836.95,19.16,426,97218.82
+8,Bangalore,Furniture,Retail Store,57,4672.76,84373.74,26.99,577,260994.02
+6,Chennai,Sports,Wholesale,159,2941.82,68502.14,,961,305589.44
+11,Bangalore,Sports,Online,103,2227.98,58262.02,18.69,196,169168.05
+10,Delhi,Sports,Online,13,2889.79,89090.47,25.48,439,208148.84
+11,Hyderabad,Groceries,Retail Store,22,1844.49,68881.76,9.93,303,101285.27
+7,Bangalore,Clothing,Online,112,1585.05,66059.32,5.85,1390,293454.47
+10,Hyderabad,Groceries,Online,88,1358.31,23027.97,7.95,1402,255705.57
+5,Bangalore,Clothing,Wholesale,6,595.65,15106.92,8.19,1145,158338.51
+6,Bangalore,Groceries,Wholesale,187,2583.51,96688.5,13.42,408,225760.67
+10,Delhi,Groceries,Retail Store,148,4461.26,61891.55,9.78,943,327919.54
+1,Bangalore,Groceries,Retail Store,103,3224.73,44489.92,8.14,1010,214876.57
+9,Hyderabad,Groceries,Retail Store,198,2700.68,60956.98,19.46,1310,280702.85
+1,Mumbai,Electronics,Wholesale,195,2257.25,10872.14,1.59,276,331521.77
+7,Hyderabad,Groceries,Retail Store,195,2429.13,83102.09,10.21,1117,308221.35
+6,Delhi,Furniture,Online,55,1204.53,25581.33,20.69,331,75245.3
+6,Mumbai,Groceries,Retail Store,177,4150.09,81431.87,5.28,874,448249.0
+6,Bangalore,Clothing,Retail Store,103,1152.24,55765.95,6.63,1324,275773.29
+6,Chennai,Sports,Wholesale,147,3639.79,31274.34,6.02,140,228116.21
+5,Mumbai,Furniture,Wholesale,173,3847.93,7869.95,0.03,264,384109.94
+6,Mumbai,Sports,Wholesale,37,2959.37,82504.17,14.21,1229,192007.8
+7,Bangalore,Sports,Retail Store,92,4342.05,21763.71,1.17,77,246959.85
+10,Chennai,Furniture,Retail Store,30,1597.04,9921.49,8.19,1043,145976.65
+7,Chennai,Clothing,Retail Store,59,4431.76,76808.38,29.84,776,130447.04
+8,Delhi,Clothing,Online,86,3701.17,38254.11,27.55,552,158567.58
+11,Mumbai,Groceries,Wholesale,172,4034.0,41986.73,6.45,1300,400825.71
+12,Chennai,Groceries,Wholesale,174,3389.98,28471.42,9.3,1280,219210.05
+2,Delhi,Sports,Wholesale,81,4262.45,86621.96,13.91,522,256236.74
+9,Chennai,Furniture,Online,69,4966.87,33246.3,25.33,56,131676.32
+3,Mumbai,Clothing,Online,109,2216.78,24968.29,24.08,235,107955.02
+3,Chennai,Clothing,Wholesale,183,4106.8,34378.72,3.79,205,229434.03
+10,Mumbai,Sports,Retail Store,196,3773.98,,3.73,1474,549047.27
+1,Bangalore,Furniture,Wholesale,49,2373.78,35177.25,12.5,915,230671.58
+11,Hyderabad,Clothing,Retail Store,41,4649.36,12878.94,26.1,1031,115084.94
+10,Delhi,Electronics,Retail Store,143,2093.24,20060.35,26.46,384,184581.83
+12,Bangalore,Sports,Retail Store,64,2914.24,44620.02,3.22,1283,328400.5
+9,Bangalore,Furniture,Wholesale,44,708.52,88549.35,17.23,1097,269999.36
+11,Hyderabad,Furniture,Retail Store,11,1283.72,10442.62,4.67,1140,136043.41
+2,Chennai,Clothing,Wholesale,84,4235.34,25204.1,20.58,728,129644.37
+11,Hyderabad,Clothing,Online,81,2103.45,91292.84,27.49,1062,274284.79
+2,Bangalore,Sports,Retail Store,115,2091.6,89551.39,13.64,838,255192.25
+4,Bangalore,Clothing,Wholesale,44,1380.71,69547.83,2.49,607,175262.62
+2,Bangalore,Clothing,Wholesale,145,2559.73,27844.99,17.38,912,202940.88
+5,Chennai,Electronics,Wholesale,138,4067.92,44882.0,12.26,520,258184.65
+9,Mumbai,Electronics,Online,95,4496.79,25065.99,24.33,1431,460266.87
+4,Delhi,Furniture,Wholesale,40,536.55,17215.91,10.21,1089,109015.56
+10,Mumbai,Sports,Wholesale,104,2959.14,41099.85,26.25,1121,246581.2
+8,Delhi,Sports,Wholesale,137,2442.91,59703.05,8.21,1089,354191.03
+8,Delhi,Groceries,Online,78,3148.55,39193.6,4.73,700,273687.79
+12,Delhi,Groceries,Wholesale,56,2346.92,63028.33,9.19,1428,255703.1
+6,Hyderabad,Furniture,Wholesale,104,2113.5,33144.2,1.05,351,158077.3
+5,Hyderabad,Electronics,Wholesale,74,2465.03,37855.8,8.44,874,208662.61
+12,Hyderabad,Electronics,Online,83,2993.6,80113.99,19.8,150,211680.12
+7,Bangalore,Furniture,Wholesale,73,2604.72,88439.9,4.27,477,270253.22
+8,Hyderabad,Furniture,Online,64,2466.29,35593.24,3.34,883,235851.9
+4,Delhi,Electronics,Retail Store,145,4125.61,59294.0,3.97,759,542766.74
+3,Chennai,Furniture,Retail Store,95,3779.11,31425.42,2.33,1414,424095.86
+3,Bangalore,Electronics,Retail Store,96,1838.62,10066.79,26.24,939,208642.94
+3,Chennai,Groceries,Wholesale,133,4042.77,75096.43,28.32,646,99636.57
+3,Delhi,Sports,Online,75,4297.52,21245.33,1.4,668,250238.52
+9,Bangalore,Groceries,Retail Store,24,936.76,45442.69,22.8,936,193793.88
+1,Hyderabad,Clothing,Retail Store,172,2996.88,51269.32,22.11,1197,244683.48
+8,Bangalore,Clothing,Retail Store,15,1569.5,22524.8,29.91,450,122694.65
+12,Bangalore,Furniture,Online,117,3748.03,13982.76,10.44,897,358895.37
+10,Delhi,Electronics,Online,57,1346.17,38061.24,8.57,883,307028.1
+5,Mumbai,Clothing,Online,46,3422.74,95467.16,13.59,63,176469.37
+1,Mumbai,Clothing,Retail Store,13,1424.6,63437.88,25.7,1373,228537.02
+11,Mumbai,Electronics,Retail Store,181,2653.49,41233.97,21.86,876,336276.87
+1,Hyderabad,Clothing,Retail Store,89,4753.5,8696.53,14.15,401,108540.25
+9,Hyderabad,Furniture,Retail Store,72,2030.28,62025.96,7.34,968,323668.42
+9,Hyderabad,Electronics,Online,150,4403.54,13764.48,21.81,1032,346622.63
+3,Mumbai,Groceries,Online,12,4937.33,56541.69,25.64,1377,276258.35
+9,Chennai,Clothing,Retail Store,115,4399.28,76435.3,12.0,99,192409.52
+3,Delhi,Groceries,Wholesale,101,996.16,45240.61,20.06,649,88142.61
+3,Mumbai,Groceries,Online,113,4134.36,33444.09,12.01,311,212654.85
+10,Delhi,Sports,Wholesale,29,354.32,9501.5,14.35,882,167719.04
+12,Mumbai,Sports,Retail Store,191,2087.85,7353.9,15.75,777,232487.36
+4,Chennai,Groceries,Online,51,4379.52,45852.52,23.27,738,126271.96
+12,Mumbai,Sports,Retail Store,137,3506.01,88917.8,29.33,1473,382959.3
+11,Chennai,Clothing,Online,151,2757.15,28185.96,13.33,820,257668.72
+10,Bangalore,Sports,Online,72,2061.75,59535.27,10.27,645,302096.42
+2,Hyderabad,Groceries,Retail Store,30,4099.03,70009.05,11.21,147,114179.23
+4,Bangalore,Groceries,Retail Store,63,3605.88,10778.84,4.02,469,168316.76
+9,Mumbai,Sports,Wholesale,163,2448.35,19544.54,8.91,1351,355891.41
+12,Hyderabad,Clothing,Online,182,4483.92,36471.3,2.59,704,416351.88
+10,Chennai,Groceries,Wholesale,188,1303.75,68658.85,12.84,1370,193917.9
+6,Mumbai,Furniture,Online,49,1017.88,46708.34,5.02,822,218766.76
+3,Hyderabad,Sports,Online,123,3285.46,74748.53,10.39,844,291574.1
+12,Mumbai,Groceries,Wholesale,34,4865.57,87421.8,23.81,673,209881.45
+4,Hyderabad,Groceries,Wholesale,144,1386.83,77045.37,7.38,857,192003.57
+5,Hyderabad,Clothing,Retail Store,86,1398.42,99263.48,18.36,146,137953.1
+12,Bangalore,Sports,Online,144,869.59,76664.3,27.04,133,80653.0
+7,Hyderabad,Electronics,Online,139,4330.71,85957.02,17.01,739,494375.69
+4,Mumbai,Electronics,Retail Store,199,1286.71,84074.8,5.81,917,400976.56
+1,Delhi,Clothing,Retail Store,100,2615.26,74375.25,10.34,848,317517.6
+6,Delhi,Groceries,Wholesale,71,4956.19,81171.17,17.71,672,156106.98
+12,Bangalore,Sports,Online,108,258.28,93794.91,15.2,476,203717.67
+6,Chennai,Clothing,Online,36,2871.13,50144.7,4.46,1078,153631.62
+9,Delhi,Groceries,Wholesale,26,,65637.27,13.4,926,184946.72
+4,Bangalore,Clothing,Online,106,4075.75,53919.27,16.29,118,164239.08
+10,Hyderabad,Sports,Online,166,1905.35,85848.51,8.02,705,287583.55
+10,Mumbai,Groceries,Retail Store,109,2169.64,45979.16,18.37,1080,194159.87
+8,Hyderabad,Clothing,Retail Store,158,1006.1,82874.04,2.1,1187,295323.68
+10,Mumbai,Sports,Retail Store,39,3755.91,80938.68,10.1,465,254254.74
+7,Chennai,Electronics,Wholesale,93,3966.6,96379.18,24.13,1391,394030.96
+5,Bangalore,Sports,Wholesale,125,855.98,28647.47,7.78,994,174982.68
+9,Bangalore,Electronics,Online,73,2088.59,72413.85,18.16,684,324361.68
+11,Delhi,Furniture,Wholesale,7,4485.94,76907.35,12.3,959,199806.66
+11,Bangalore,Sports,Retail Store,19,212.99,93946.46,9.49,1313,305437.33
+3,Chennai,Groceries,Online,186,1634.04,91155.73,27.48,378,133802.17
+9,Delhi,Sports,Wholesale,123,2864.2,59484.96,10.3,268,220574.57
+1,Hyderabad,Groceries,Online,56,1803.65,60019.55,7.1,688,193511.28
+7,Bangalore,Groceries,Retail Store,55,1505.82,20892.67,27.28,171,89156.4
+7,Hyderabad,Furniture,Wholesale,12,2408.18,97621.46,22.38,1261,233113.79
+5,Hyderabad,Electronics,Online,190,1071.31,29226.66,20.45,1457,372739.97
+12,Bangalore,Electronics,Online,26,2742.2,73849.94,1.49,928,368706.59
+11,Mumbai,Furniture,Retail Store,153,3592.14,80600.53,3.94,1470,608693.62
+1,Hyderabad,Electronics,Wholesale,52,2961.42,46915.47,19.15,149,83162.38
+3,Delhi,Clothing,Online,70,646.92,25063.4,6.28,967,165830.76
+3,Bangalore,Groceries,Retail Store,58,4253.16,22951.24,6.77,692,235990.76
+11,Delhi,Sports,Retail Store,166,1039.89,86367.12,23.37,452,214001.01
+7,Hyderabad,Clothing,Online,11,3871.1,53521.87,8.58,502,146005.82
+9,Hyderabad,Sports,Wholesale,74,1930.71,13563.01,2.15,840,156646.96
+10,Delhi,Sports,Wholesale,59,3957.25,73116.85,1.09,980,371062.56
+10,Hyderabad,Sports,Retail Store,58,1190.11,28766.25,13.3,287,137842.19
+2,Bangalore,Clothing,Online,42,1095.98,88257.5,18.51,941,229666.5
+2,Hyderabad,Furniture,Online,183,2585.72,34409.32,26.07,1393,304035.91
+5,Delhi,Sports,Retail Store,79,358.09,24025.73,3.32,65,50207.58
+5,Delhi,Furniture,Retail Store,86,1281.43,13061.55,5.9,1323,271852.3
+9,Bangalore,Clothing,Retail Store,80,3675.26,53595.46,15.89,931,237158.9
+2,Delhi,Electronics,Online,197,4219.44,47820.07,10.92,546,559048.14
+5,Mumbai,Groceries,Retail Store,71,587.77,76374.65,14.48,1115,269305.9
+3,Hyderabad,Groceries,Online,71,4433.97,49137.25,27.72,945,139873.88
+3,Delhi,Electronics,Wholesale,69,4028.08,37662.52,16.35,1164,265286.3
+3,Hyderabad,Furniture,Wholesale,69,4374.48,29857.22,12.45,167,115338.39
+3,Delhi,Clothing,Retail Store,22,3552.46,31423.94,29.68,135,45619.56
+7,Delhi,Clothing,Online,123,3435.93,93145.55,1.96,980,494797.11
+5,Bangalore,Sports,Wholesale,9,2720.45,20682.47,27.96,490,122861.78
+6,Hyderabad,Furniture,Online,49,,98876.76,15.05,395,266564.53
+6,Delhi,Sports,Wholesale,44,4611.73,36057.35,15.11,660,163289.17
+9,Mumbai,Clothing,Online,62,682.51,13397.07,27.66,1101,187772.4
+11,Chennai,Sports,Retail Store,153,1715.67,28625.59,15.22,310,96873.05
+7,Chennai,Furniture,Online,122,547.78,10549.37,13.15,1461,275462.44
+8,Bangalore,Electronics,Online,199,4735.06,80052.83,8.17,660,765983.38
+9,Bangalore,Electronics,Wholesale,73,2337.27,53692.53,19.76,268,203950.82
+9,Mumbai,Furniture,Wholesale,186,3441.65,37013.73,17.09,153,227583.4
+2,Hyderabad,Sports,Online,13,4237.38,67894.71,6.43,1293,270082.1
+12,Bangalore,Electronics,Wholesale,103,4956.8,64911.42,21.28,214,247185.02
+2,Mumbai,Furniture,Online,161,976.56,94287.85,19.32,657,328892.15
+5,Delhi,Electronics,Online,109,4037.66,96319.75,11.92,1019,494701.66
+8,Delhi,Sports,Online,187,4459.63,69664.96,0.13,793,666963.41
+5,Chennai,Groceries,Retail Store,66,434.6,82692.51,13.4,430,120045.33
+3,Bangalore,Groceries,Online,11,3819.63,80280.38,0.18,206,104891.61
+12,Bangalore,Groceries,Retail Store,156,1902.68,51673.84,2.25,1081,240121.65
+1,Bangalore,Groceries,Online,18,3313.26,71923.54,12.92,760,189357.66
+3,Hyderabad,Groceries,Online,154,2667.43,12434.61,2.46,119,214879.02
+12,Delhi,Electronics,Retail Store,148,1446.76,77012.0,8.27,312,326374.78
+9,Delhi,Sports,Wholesale,170,849.06,96374.14,19.66,865,251049.23
+2,Mumbai,Groceries,Wholesale,98,761.35,13072.6,9.26,294,123472.06
+10,Bangalore,Groceries,Retail Store,180,695.95,84431.0,29.93,617,175961.44
+12,Hyderabad,Furniture,Online,38,3261.39,93633.1,27.49,230,213690.73
+2,Bangalore,Sports,Wholesale,90,1886.77,26487.94,17.56,1205,200956.86
+5,Bangalore,Furniture,Wholesale,28,1239.84,54857.06,29.01,964,189356.2
+6,Chennai,Electronics,Wholesale,155,3521.05,93146.53,26.04,1186,298865.81
+2,Delhi,Sports,Wholesale,144,3496.88,96221.47,9.57,126,198816.09
+3,Bangalore,Furniture,Wholesale,163,2788.01,17148.83,22.49,594,217996.22
+3,Bangalore,Electronics,Wholesale,154,4687.8,38155.4,4.1,438,432752.94
+3,Bangalore,Groceries,Retail Store,65,2049.99,71323.74,20.54,952,180660.06
+5,Chennai,Furniture,Retail Store,18,4212.14,26048.06,14.73,1241,176929.42
+6,Mumbai,Sports,Online,187,560.67,35853.21,0.5,379,170082.96
+3,Chennai,Clothing,Online,101,3751.19,7212.65,8.23,1166,313358.02
+4,Mumbai,Electronics,Wholesale,23,4944.55,19584.56,28.66,891,247860.93
+3,Bangalore,Sports,Wholesale,186,4263.67,58421.3,9.47,1244,408751.79
+10,Bangalore,Clothing,Wholesale,199,2982.39,67043.56,5.44,167,275071.24
+3,Chennai,Furniture,Online,92,3208.48,66646.62,5.63,1486,382138.19
+11,Bangalore,Groceries,Retail Store,155,1895.79,78944.24,14.38,680,270418.15
+7,Mumbai,Clothing,Online,12,3461.53,44451.73,25.28,456,146993.44
+10,Delhi,Electronics,Wholesale,23,3897.9,30981.62,22.74,314,99847.59
+8,Mumbai,Groceries,Online,59,4991.5,6480.17,13.11,1478,300592.39
+4,Chennai,Clothing,Online,133,2563.82,24629.83,6.26,1330,280091.3
+8,Delhi,Groceries,Retail Store,31,494.26,34676.84,1.38,240,127115.05
+4,Chennai,Sports,Wholesale,11,3060.12,21929.65,13.88,695,119491.54
+2,Bangalore,Groceries,Wholesale,136,771.32,6913.72,24.44,1113,152744.6
+4,Delhi,Groceries,Online,155,1374.87,19957.52,21.89,906,93560.21
+4,Mumbai,Furniture,Online,149,1778.14,68279.46,12.26,324,266583.25
+2,Bangalore,Furniture,Online,161,3708.94,64810.61,17.84,572,428323.75
+1,Mumbai,Clothing,Online,162,1082.28,93889.95,13.09,583,293776.0
+12,Delhi,Sports,Retail Store,123,995.61,80825.99,17.37,468,149004.24
+7,Hyderabad,Clothing,Online,106,415.83,58936.83,15.53,1443,247591.63
+5,Hyderabad,Furniture,Online,172,4391.55,18067.85,20.43,344,202444.72
+12,Delhi,Groceries,Retail Store,73,3528.83,58586.82,15.23,1074,300426.22
+3,Mumbai,Sports,Online,24,391.74,10851.53,28.22,1372,249281.18
+5,Mumbai,Sports,Online,152,335.8,45934.07,12.84,1202,259091.37
+11,Hyderabad,Furniture,Online,59,2881.64,42074.57,0.48,1209,335110.16
+8,Hyderabad,Groceries,Online,196,1556.17,45642.31,7.09,280,99355.77
+5,Hyderabad,Clothing,Retail Store,86,3064.29,31583.46,15.02,243,85938.39
+4,Chennai,Clothing,Wholesale,171,2286.1,70153.89,16.22,1185,234087.93
+1,Hyderabad,Furniture,Wholesale,13,4631.9,84889.72,16.57,1132,253869.31
+2,Mumbai,Electronics,Online,134,1581.48,78009.11,21.44,1125,359159.42
+2,Delhi,Furniture,Online,92,3459.9,64636.45,8.24,656,327578.54
+10,Hyderabad,Clothing,Retail Store,95,459.46,56142.76,19.95,808,193298.16
+8,Chennai,Sports,Retail Store,56,4788.13,7953.0,21.12,72,27906.76
+6,Chennai,Sports,Wholesale,195,4907.64,73678.73,12.34,471,338651.39
+10,Mumbai,Electronics,Wholesale,81,3747.56,,12.07,816,330078.19
+2,Mumbai,Groceries,Retail Store,171,2433.02,,5.37,232,252293.7
+3,Delhi,Electronics,Online,88,1255.97,36144.99,12.42,238,146143.0
+5,Delhi,Groceries,Online,14,4100.08,93882.64,23.6,115,123674.33
+12,Bangalore,Furniture,Online,177,3734.5,64314.41,27.27,354,286092.33
+8,Bangalore,Clothing,Online,41,1265.38,50211.68,17.81,1489,256340.59
+11,Mumbai,Groceries,Wholesale,57,2365.83,63987.57,8.98,1059,213719.47
+3,Mumbai,Clothing,Online,173,2421.43,44305.52,20.47,1424,336661.53
+11,Chennai,Sports,Wholesale,180,4166.77,49667.32,22.2,422,193828.47
+1,Bangalore,Clothing,Retail Store,184,3482.45,32579.38,9.97,918,371403.82
+3,Chennai,Sports,Retail Store,88,3287.2,46786.06,24.8,1343,254239.7
+7,Chennai,Groceries,Retail Store,153,3319.17,70131.26,2.21,560,249245.72
+1,Mumbai,Furniture,Wholesale,69,1498.26,8794.48,0.32,1002,203501.55
+11,Mumbai,Groceries,Online,150,1984.21,80527.6,3.69,1054,411071.12
+11,Chennai,Clothing,Online,103,419.18,31883.06,4.68,1256,186067.86
+7,Hyderabad,Clothing,Retail Store,15,3977.32,69843.18,26.37,1455,242794.85
+4,Mumbai,Electronics,Retail Store,86,2278.39,66058.9,12.75,942,345583.27
+2,Hyderabad,Electronics,Retail Store,96,2303.54,66999.66,8.25,894,305412.49
+8,Bangalore,Clothing,Wholesale,55,1377.71,62772.25,12.87,1309,186937.28
+7,Chennai,Electronics,Retail Store,78,1205.25,96114.67,11.85,1042,350802.06
+10,Mumbai,Sports,Online,103,3021.55,53292.7,9.04,574,284129.57
+8,Chennai,Sports,Online,14,1316.25,74570.32,4.14,963,256927.2
+2,Chennai,Groceries,Wholesale,34,508.2,72017.69,19.68,846,107473.03
+2,Delhi,Groceries,Online,155,3884.04,27445.42,4.1,381,282073.12
+10,Delhi,Clothing,Retail Store,73,2007.05,31914.05,23.26,798,203985.21
+2,Bangalore,Electronics,Retail Store,124,2025.13,45281.62,6.05,954,389063.36
+12,Delhi,Furniture,Wholesale,115,2270.33,31381.3,21.94,1360,282809.41
+2,Mumbai,Clothing,Wholesale,113,4112.22,39840.59,24.17,891,220979.16
+9,Bangalore,Sports,Retail Store,86,1740.02,42141.26,3.76,289,160390.95
+12,Chennai,Furniture,Online,99,3838.57,62367.13,2.6,1482,473009.68
+6,Chennai,Clothing,Retail Store,166,4709.82,25889.55,28.49,888,155939.04
+1,Delhi,Furniture,Retail Store,194,3372.17,81407.73,13.89,466,396548.92
+11,Chennai,Electronics,Online,55,2272.07,46565.95,18.91,1143,277073.28
+3,Delhi,Electronics,Retail Store,136,3789.39,72093.19,0.7,607,540941.33
+7,Hyderabad,Furniture,Online,195,2397.91,12737.04,8.36,586,282369.72
+12,Chennai,Electronics,Retail Store,6,2189.25,49646.71,15.16,1267,267891.3
+9,Chennai,Electronics,Wholesale,158,2721.36,7680.86,26.59,1307,256372.8
+1,Mumbai,Furniture,Wholesale,102,1725.07,69211.45,8.14,809,259121.37
+10,Chennai,Furniture,Online,194,700.4,37652.46,23.26,590,159161.4
+2,Delhi,Clothing,Wholesale,118,2191.29,95179.02,19.87,1301,267441.21
+9,Bangalore,Electronics,Online,169,794.51,35791.8,3.46,301,240622.89
+8,Bangalore,Furniture,Retail Store,37,2170.12,58561.56,,1133,275852.98
+4,Mumbai,Clothing,Online,32,2873.28,29451.82,7.14,896,204723.56
+6,Delhi,Sports,Online,186,4667.41,63910.7,13.28,1288,560723.98
+2,Hyderabad,Groceries,Online,108,373.87,49369.02,19.06,659,154677.39
+12,Mumbai,Sports,Online,114,3183.0,40209.68,13.0,1256,398584.9
+3,Hyderabad,Furniture,Wholesale,38,2397.13,24350.49,7.34,72,119869.03
+4,Bangalore,Clothing,Online,49,297.25,15594.53,20.88,1149,185922.8
+7,Mumbai,Clothing,Retail Store,165,1397.83,16388.52,17.53,151,92859.43
+9,Chennai,Sports,Wholesale,64,768.73,99908.8,15.58,981,204558.99
+7,Delhi,Sports,Wholesale,119,1240.61,44169.52,16.63,333,87668.74
+7,Hyderabad,Sports,Wholesale,67,1517.94,5183.32,6.66,1447,168118.14
+7,Hyderabad,Groceries,Online,56,2126.27,95528.24,20.41,1165,231887.34
+11,Mumbai,Clothing,Wholesale,37,2739.39,6898.09,11.63,201,109244.86
+5,Mumbai,Clothing,Retail Store,187,204.75,44765.68,10.9,1343,241866.46
+10,Delhi,Sports,Online,189,976.97,,4.49,415,240900.88
+10,Chennai,Furniture,Retail Store,27,649.12,91886.93,17.91,841,262459.01
+12,Chennai,Furniture,Wholesale,74,2838.43,72724.2,,173,193377.18
+11,Mumbai,Sports,Retail Store,115,1779.56,49044.45,10.21,203,215874.87
+10,Delhi,Furniture,Online,80,2832.31,97571.99,25.8,399,228369.54
+3,Delhi,Furniture,Wholesale,146,1264.75,8735.34,25.36,824,130143.1
+10,Delhi,Clothing,Wholesale,56,316.3,98754.76,3.27,837,256367.36
+9,Chennai,Furniture,Wholesale,16,4718.56,85692.2,20.85,1290,258583.17
+4,Chennai,Sports,Wholesale,71,719.88,93248.35,11.82,289,119196.77
+9,Delhi,Sports,Wholesale,122,808.92,29203.38,29.99,1136,207488.73
+4,Hyderabad,Furniture,Retail Store,40,903.42,18533.52,6.75,58,78561.34
+7,Delhi,Clothing,Online,164,4910.13,68014.95,8.42,472,417045.25
+10,Mumbai,Sports,Retail Store,7,3164.77,54006.65,13.26,303,139998.76
+3,Bangalore,Groceries,Online,18,3129.39,54700.96,8.06,229,140450.84
+5,Hyderabad,Furniture,Retail Store,104,4936.15,92838.82,20.76,897,288170.44
+10,Chennai,Clothing,Retail Store,105,624.51,63907.69,14.43,1355,227576.36
+6,Delhi,Groceries,Wholesale,62,4877.6,34551.06,6.63,1017,184947.37
+12,Delhi,Groceries,Online,55,1179.26,43006.32,15.19,1288,211866.61
+1,Mumbai,Electronics,Online,18,3190.74,17682.1,26.66,907,206586.5
+9,Mumbai,Furniture,Wholesale,134,2216.4,23269.83,23.77,127,119938.85
+10,Chennai,Sports,Online,79,2042.97,18618.26,14.96,551,139443.66
+12,Hyderabad,Furniture,Retail Store,28,4669.97,81977.68,8.65,1244,300913.73
+2,Mumbai,Furniture,Wholesale,83,916.29,71962.98,5.4,114,135196.03
+12,Chennai,Furniture,Retail Store,188,4985.93,55382.78,26.35,190,168540.86
+5,Bangalore,Electronics,Retail Store,56,2019.8,40564.94,21.31,1259,327833.68
+5,Bangalore,Electronics,Wholesale,180,3314.12,68506.96,17.16,141,310612.0
+5,Bangalore,Furniture,Retail Store,55,4845.95,82226.01,26.38,1441,368871.17
+8,Delhi,Sports,Wholesale,41,476.49,88717.16,3.65,1149,240339.3
+8,Chennai,Electronics,Retail Store,56,4629.75,56966.54,20.47,1014,292139.27
+6,Delhi,Furniture,Online,68,2925.49,82889.09,6.5,827,293820.82
+1,Delhi,Electronics,Retail Store,28,3581.11,53574.07,3.62,179,175025.42
+12,Mumbai,Clothing,Online,120,916.08,50080.36,13.97,651,302100.62
+3,Mumbai,Furniture,Wholesale,70,2760.26,87216.03,11.62,1221,333910.98
+2,Delhi,Groceries,Retail Store,145,3432.87,41705.52,28.24,1360,225118.83
+8,Delhi,Clothing,Retail Store,101,2389.99,42611.7,9.72,698,236182.1
+5,Hyderabad,Groceries,Retail Store,91,943.93,33966.58,24.45,1266,219570.31
+8,Chennai,Groceries,Retail Store,97,1371.77,,22.46,1176,212644.91
+11,Delhi,Clothing,Online,35,4301.09,56760.75,20.04,133,67532.13
+2,Mumbai,Sports,Online,144,365.46,67743.81,27.61,949,270918.65
+4,Bangalore,Clothing,Retail Store,25,3602.54,45897.72,12.24,943,276548.98
+7,Chennai,Sports,Online,146,4997.07,25694.54,11.69,837,377158.12
+10,Hyderabad,Sports,Wholesale,200,235.92,87350.0,4.83,1169,198722.58
+8,Hyderabad,Clothing,Online,154,973.02,37870.08,8.27,1339,269809.62
+5,Bangalore,Groceries,Wholesale,94,3435.89,92679.62,26.39,848,161864.88
+8,Bangalore,Furniture,Retail Store,66,487.96,24698.57,14.23,514,172379.28
+12,Delhi,Sports,Retail Store,176,3030.99,58205.46,10.24,1475,429233.43
+6,Chennai,Groceries,Online,55,3483.2,55978.43,6.48,1447,270913.97
+11,Chennai,Sports,Retail Store,99,3023.1,83721.55,,1044,262571.02
+10,Delhi,Furniture,Wholesale,156,1952.89,18190.88,21.5,978,200976.0
+4,Hyderabad,Groceries,Online,185,3546.96,91444.03,8.6,201,341870.9
+3,Delhi,Clothing,Online,185,3052.61,55485.68,22.73,632,248452.2
+10,Hyderabad,Electronics,Retail Store,22,1196.66,60680.39,18.89,337,134338.55
+3,Chennai,Electronics,Online,181,2903.05,53465.8,23.63,796,263846.48
+5,Delhi,Clothing,Online,27,4433.15,8422.37,7.53,1248,175257.85
+3,Bangalore,Furniture,Retail Store,119,3400.8,52223.61,18.93,375,189315.08
+8,Delhi,Electronics,Retail Store,187,2464.6,30037.22,4.61,1495,539517.4
+4,Bangalore,Clothing,Retail Store,133,1743.6,37555.38,10.91,237,173791.23
+8,Chennai,Groceries,Wholesale,190,612.25,66664.65,21.73,192,72289.58
+12,Delhi,Furniture,Wholesale,72,1374.21,52281.23,18.95,1462,337082.57
+10,Mumbai,Sports,Online,66,253.7,13855.73,5.64,195,54206.8
+12,Chennai,Groceries,Retail Store,68,4935.8,11938.92,25.75,1116,157260.99
+1,Mumbai,Clothing,Online,74,1267.91,22637.48,1.6,1156,208062.48
+6,Delhi,Sports,Online,138,4111.4,23134.09,17.86,528,290895.68
+3,Bangalore,Clothing,Online,93,1009.5,62788.57,29.51,143,169918.22
+12,Bangalore,Electronics,Retail Store,149,1561.29,21892.37,15.95,497,162353.89
+9,Hyderabad,Electronics,Wholesale,86,2207.73,88763.35,24.02,149,150321.45
+4,Mumbai,Sports,Wholesale,65,1757.15,24927.26,17.86,1024,224940.69
+7,Chennai,Sports,Retail Store,42,4032.08,13657.49,23.49,1338,157773.81
+8,Bangalore,Groceries,Wholesale,113,4796.93,88195.87,19.67,1495,337864.3
+6,Mumbai,Electronics,Online,181,4401.41,33056.12,20.73,1210,566473.01
+6,Chennai,Furniture,Wholesale,173,937.17,45415.15,6.83,1173,235000.92
+1,Chennai,Electronics,Wholesale,54,3928.11,96107.51,22.25,1328,321267.23
+6,Bangalore,Electronics,Online,98,910.15,94715.08,7.14,1166,494859.07
+5,Delhi,Furniture,Retail Store,143,4584.23,72917.1,29.42,993,358017.69
+10,Bangalore,Clothing,Wholesale,125,2685.82,11549.2,6.83,1494,293222.11
+11,Bangalore,Electronics,Retail Store,18,1814.63,61367.31,7.1,517,199823.57
+10,Delhi,Sports,Wholesale,120,953.72,98962.4,25.76,648,178199.96
+1,Hyderabad,Clothing,Wholesale,12,256.68,94957.04,7.29,1364,237329.84
+11,Chennai,Furniture,Retail Store,27,1390.15,15070.24,10.83,500,68927.38
+5,Delhi,Clothing,Online,133,4587.3,42616.89,21.44,483,223940.77
+5,Hyderabad,Groceries,Retail Store,25,4026.86,34975.99,4.76,270,96316.18
+12,Delhi,Furniture,Online,71,4855.01,17324.17,4.77,449,271771.46
+11,Hyderabad,Electronics,Retail Store,120,683.66,71005.84,14.59,910,278273.62
+1,Bangalore,Electronics,Retail Store,133,3042.46,31015.59,7.31,1335,546191.95
+5,Delhi,Sports,Retail Store,92,1434.32,37762.25,7.07,247,129284.44
+9,Chennai,Electronics,Online,23,2806.12,13584.09,0.28,1037,223100.61
+7,Delhi,Groceries,Online,161,1738.18,52306.92,11.11,1161,321055.69
+4,Bangalore,Furniture,Wholesale,191,1560.63,20025.95,9.55,1348,318560.5
+7,Delhi,Groceries,Online,179,2954.46,46048.59,0.93,1137,459164.87
+11,Chennai,Electronics,Online,151,1079.93,18617.51,18.64,276,135588.71
+3,Hyderabad,Sports,Wholesale,83,2451.84,95615.74,18.8,758,196228.16
+9,Chennai,Groceries,Online,176,3323.9,18773.34,2.12,1430,325400.75
+9,Bangalore,Clothing,Retail Store,100,815.27,54579.28,9.51,1367,222753.65
+11,Bangalore,Furniture,Online,31,4666.85,23713.08,26.18,938,181999.83
+4,Hyderabad,Sports,Online,171,2627.48,12254.37,17.47,1446,328379.32
+3,Hyderabad,Furniture,Retail Store,67,4133.73,24219.32,12.36,1018,205221.06
+7,Chennai,Clothing,Retail Store,188,3338.75,10203.54,13.95,144,205324.35
+7,Delhi,Furniture,Online,77,3608.0,18242.75,6.25,1375,395213.67
+5,Hyderabad,Furniture,Online,175,3637.43,51880.99,24.36,293,205545.49
+10,Delhi,Clothing,Online,110,4400.48,66922.47,27.42,602,199033.92
+10,Mumbai,Electronics,Retail Store,96,3145.31,13297.28,27.32,395,167717.21
+3,Chennai,Electronics,Wholesale,63,1535.44,46896.77,6.72,1093,202583.22
+10,Mumbai,Furniture,Online,168,677.65,60218.47,9.32,93,144197.3
+3,Hyderabad,Electronics,Online,16,3110.0,27251.44,4.82,978,268032.06
+5,Bangalore,Clothing,Retail Store,96,518.49,40347.45,9.22,1303,242041.97
+1,Mumbai,Sports,Retail Store,77,1358.21,11824.31,9.98,1192,216489.68
+5,Mumbai,Electronics,Online,111,491.39,25912.45,18.99,495,188538.01
+12,Bangalore,Electronics,Online,54,2834.66,49341.53,5.69,1350,452122.4
+6,Hyderabad,Electronics,Retail Store,135,969.62,99092.01,27.58,574,247232.59
+9,Hyderabad,Clothing,Retail Store,80,3129.96,99645.18,3.09,1036,276822.67
+2,Chennai,Furniture,Retail Store,41,3996.15,98064.06,0.21,784,338312.46
+8,Chennai,Clothing,Online,43,4145.03,45193.21,25.65,148,76718.9
+5,Hyderabad,Electronics,Wholesale,141,1685.81,12664.64,21.11,54,118689.45
+9,Hyderabad,Furniture,Retail Store,56,2834.98,35739.48,10.66,315,140708.9
+12,Mumbai,Clothing,Retail Store,65,2902.45,27582.87,17.86,1405,297722.03
+7,Bangalore,Clothing,Online,127,2469.86,6342.02,6.71,1433,364587.35
+2,Delhi,Clothing,Wholesale,69,3344.55,14047.19,5.05,644,190421.9
+6,Mumbai,Groceries,Wholesale,81,1208.42,48053.23,14.13,1454,198617.37
+2,Chennai,Clothing,Online,52,4900.37,37267.93,10.6,121,155375.53
+6,Bangalore,Sports,Wholesale,72,670.78,22133.6,18.46,1452,277433.0
+1,Delhi,Clothing,Wholesale,140,4180.26,73029.5,6.54,384,271647.08
+8,Hyderabad,Furniture,Online,109,3051.66,38925.98,19.89,103,150342.13
+4,Chennai,Furniture,Wholesale,200,1375.3,85927.45,23.01,1148,234886.16
+3,Chennai,Furniture,Online,156,3779.24,27892.83,5.0,604,354340.93
+1,Mumbai,Clothing,Online,8,605.51,56147.38,1.32,473,192290.19
+11,Bangalore,Furniture,Online,79,3917.21,22493.23,13.19,1151,332542.03
+11,Bangalore,Sports,Retail Store,61,3031.93,52053.56,23.22,532,156512.94
+10,Mumbai,Clothing,Retail Store,120,731.6,19484.32,19.52,1141,251997.52
+1,Mumbai,Sports,Retail Store,57,581.63,20349.97,21.06,333,99355.48
+5,Mumbai,Groceries,Online,194,3804.01,63161.22,12.09,174,379905.27
+12,Chennai,Furniture,Online,63,1606.09,30059.67,7.05,521,156142.05
+7,Hyderabad,Furniture,Wholesale,107,4468.65,21374.89,15.95,933,247196.22
+2,Chennai,Groceries,Wholesale,29,3857.95,93327.98,6.13,376,105769.01
+2,Chennai,Furniture,Wholesale,183,3551.31,9085.31,21.79,257,136749.79
+4,Chennai,Furniture,Online,183,1537.31,58689.07,5.91,1136,296082.62
+12,Delhi,Sports,Wholesale,160,3602.93,57085.06,8.74,765,362643.63
+3,Chennai,Clothing,Wholesale,73,4751.11,28807.84,15.2,675,158668.37
+11,Delhi,Electronics,Retail Store,16,639.49,48013.32,14.6,397,156507.41
+9,Bangalore,Clothing,Online,144,1765.58,13335.09,18.03,75,89331.54
+12,Bangalore,Clothing,Wholesale,89,1326.43,73520.66,13.12,127,104810.21
+10,Mumbai,Sports,Retail Store,199,2087.6,26061.23,27.58,1038,263051.44
+4,Delhi,Groceries,Online,141,3763.2,23371.61,25.2,166,78882.06
+10,Delhi,Electronics,Online,110,2476.36,34913.46,26.37,408,208550.56
+3,Chennai,Electronics,Retail Store,198,2939.51,90725.14,18.89,1370,503515.83
+4,Mumbai,Groceries,Online,161,1707.94,80664.33,19.05,548,269153.37
+3,Mumbai,Electronics,Online,94,878.19,94954.77,18.28,1129,374644.56
+2,Chennai,Furniture,Retail Store,8,1481.28,66936.42,13.05,547,130978.81
+2,Delhi,Electronics,Wholesale,23,4326.47,67977.54,9.66,1401,345034.47
+3,Chennai,Electronics,Online,91,3091.6,50602.94,,1241,346493.05
+2,Chennai,Sports,Retail Store,115,2014.35,90992.7,0.77,731,221122.22
+5,Bangalore,Electronics,Wholesale,10,3991.55,53533.33,0.22,1042,270802.25
+1,Delhi,Electronics,Wholesale,29,509.4,38730.71,25.55,649,148178.83
+1,Delhi,Sports,Wholesale,143,1418.68,65835.63,1.39,1419,371269.31
+12,Mumbai,Electronics,Online,152,1304.5,56883.25,15.74,569,298457.63
+2,Bangalore,Sports,Wholesale,10,4929.75,16781.88,18.45,1262,221135.23
+1,Delhi,Electronics,Wholesale,104,3589.27,42308.91,5.95,943,311189.66
+1,Bangalore,Electronics,Online,20,3165.37,34765.91,26.87,983,230550.71
+2,Delhi,Electronics,Retail Store,146,223.93,85449.21,5.7,559,256223.79
+7,Bangalore,Groceries,Retail Store,168,1084.69,40990.04,26.54,1257,245933.24
+10,Delhi,Groceries,Retail Store,175,3250.6,83047.75,22.89,1132,265024.08
+9,Hyderabad,Clothing,Online,122,2022.65,47027.01,7.22,1232,293329.83
+7,Delhi,Furniture,Wholesale,128,4636.55,76582.55,4.52,1211,440406.04
+2,Delhi,Electronics,Wholesale,186,3870.68,17851.78,9.49,278,323538.06
+10,Delhi,Clothing,Retail Store,125,2347.44,92841.77,11.94,1319,377044.9
+1,Chennai,Furniture,Wholesale,92,3797.67,50653.19,7.37,1270,280657.36
+8,Delhi,Clothing,Retail Store,152,4881.94,29680.83,29.97,402,129600.51
+5,Bangalore,Groceries,Wholesale,120,2412.71,27941.51,6.89,1473,226555.86
+11,Bangalore,Sports,Retail Store,170,3284.12,30182.34,24.92,814,225439.54
+4,Bangalore,Clothing,Retail Store,107,4609.59,39838.8,4.77,516,347478.81
+8,Hyderabad,Electronics,Online,175,1393.64,73164.36,29.41,373,204489.05
+6,Chennai,Furniture,Retail Store,13,4455.48,95212.29,6.77,578,174877.2
+7,Mumbai,Sports,Online,12,668.21,68558.56,12.65,104,115389.37
+12,Chennai,Clothing,Online,24,3312.55,56980.8,16.76,1051,167130.09
+9,Mumbai,Groceries,Online,114,3957.62,47616.79,3.61,1076,360124.62
+5,Chennai,Clothing,Wholesale,143,3150.11,83678.47,24.5,1018,247906.33
+6,Bangalore,Electronics,Online,47,2578.57,85717.43,8.24,846,374489.23
+9,Hyderabad,Sports,Wholesale,35,3163.27,32838.58,16.48,575,183557.49
+5,Chennai,Groceries,Wholesale,173,927.99,95574.92,16.49,1099,187634.41
+3,Hyderabad,Sports,Online,152,1234.74,42535.96,18.08,1313,269781.5
+6,Chennai,Sports,Retail Store,132,1495.52,81007.42,1.66,177,201295.9
+1,Bangalore,Furniture,Retail Store,100,3069.34,96847.89,5.06,605,275933.91
+3,Delhi,Furniture,Retail Store,87,2321.13,71847.52,4.84,1493,409706.87
+6,Bangalore,Furniture,Wholesale,9,1373.48,20347.32,9.06,1299,212705.29
+10,Delhi,Sports,Retail Store,41,4437.48,60683.01,4.35,1491,404950.32
+10,Chennai,Clothing,Retail Store,180,1994.82,16283.83,27.66,315,119886.93
+4,Mumbai,Clothing,Retail Store,71,2340.95,79968.49,15.39,724,194243.36
+6,Mumbai,Sports,Wholesale,143,2166.57,31724.94,18.71,239,173298.86
+2,Mumbai,Groceries,Retail Store,142,1073.33,71045.41,10.72,1305,261778.86
+10,Hyderabad,Sports,Retail Store,65,3711.81,91458.52,8.29,802,253534.45
+3,Bangalore,Sports,Wholesale,45,2352.6,22195.94,15.1,403,108849.82
+10,Chennai,Electronics,Wholesale,140,278.03,42321.49,8.83,180,92028.18
+11,Bangalore,Furniture,Wholesale,23,4827.27,66476.28,10.31,1119,328938.91
+9,Mumbai,Groceries,Wholesale,101,4115.67,44867.57,13.58,1227,281455.9
+4,Delhi,Sports,Retail Store,179,3673.08,21607.8,15.17,1324,385583.61
+12,Delhi,Electronics,Wholesale,144,4371.64,7761.8,29.53,1458,323904.35
+9,Mumbai,Furniture,Online,154,4552.67,43626.82,6.7,1231,669233.59
+8,Chennai,Clothing,Online,21,1819.95,66674.86,14.64,1190,249435.5
+11,Bangalore,Groceries,Retail Store,44,3132.6,59528.5,4.49,1227,306994.1
+11,Chennai,Electronics,Wholesale,58,3122.28,19842.92,10.5,1498,302522.57
+1,Delhi,Groceries,Retail Store,62,1483.04,47815.88,21.52,721,144279.32
+11,Delhi,Furniture,Retail Store,43,1265.37,40099.75,5.23,1149,300714.14
+10,Chennai,Furniture,Retail Store,195,746.75,31049.23,17.44,1238,235925.49
+3,Delhi,Clothing,Online,37,3364.71,74280.77,12.5,218,157564.05
+4,Delhi,Clothing,Retail Store,143,3948.41,34416.94,1.55,1051,441963.35
+10,Bangalore,Groceries,Retail Store,120,3852.57,56313.49,27.99,541,218784.76
+3,Chennai,Furniture,Retail Store,124,1718.12,92706.24,12.41,242,192723.16
+6,Hyderabad,Sports,Retail Store,47,1185.25,56231.22,23.52,297,96881.72
+9,Delhi,Electronics,Online,65,2377.35,63617.18,12.49,215,264841.29
+8,Chennai,Sports,Wholesale,123,2824.7,11958.37,28.12,1351,208522.28
+11,Chennai,Electronics,Retail Store,63,4611.62,21922.74,8.71,1169,329188.51
+2,Chennai,Groceries,Online,141,4399.15,14590.36,12.37,198,170122.42
+4,Chennai,Furniture,Retail Store,12,4597.08,77657.23,22.77,956,228796.63
+12,Mumbai,Furniture,Retail Store,19,4281.26,84412.5,10.31,1007,322788.76
+7,Chennai,Electronics,Online,147,4829.99,22713.25,10.93,803,416811.83
+3,Mumbai,Groceries,Online,125,2434.4,25830.82,29.84,928,180331.82
+4,Chennai,Electronics,Online,13,427.87,35704.69,16.67,1365,284790.59
+5,Bangalore,Groceries,Retail Store,181,601.1,61152.37,20.68,802,165948.64
+7,Hyderabad,Groceries,Wholesale,5,2073.33,64070.64,19.3,1006,174782.53
+4,Hyderabad,Sports,Wholesale,192,1436.9,70241.63,24.84,878,229304.49
+8,Hyderabad,Groceries,Retail Store,147,1015.71,90993.31,25.85,624,193015.45
+6,Hyderabad,Furniture,Wholesale,198,4775.38,33028.81,16.9,1341,381355.22
+8,Hyderabad,Groceries,Online,190,1138.01,67582.1,8.84,650,231117.94
+2,Hyderabad,Sports,Wholesale,66,4805.02,58173.67,0.68,1209,295548.71
+8,Delhi,Furniture,Retail Store,153,3852.03,34054.54,18.43,927,296686.64
+12,Chennai,Electronics,Wholesale,46,3276.54,91204.44,24.76,1043,289378.04
+2,Bangalore,Sports,Wholesale,97,3444.89,14070.92,13.52,1152,249363.39
+4,Mumbai,Electronics,Retail Store,52,1791.08,72640.1,4.94,1117,443652.89
+9,Bangalore,Clothing,Online,100,3302.85,74148.0,8.64,868,388254.86
+8,Chennai,Furniture,Retail Store,175,1096.12,91956.02,15.3,942,298500.61
+9,Chennai,Electronics,Wholesale,90,4700.99,54265.16,25.1,787,231758.91
+7,Chennai,Groceries,Wholesale,23,1648.61,35554.12,5.15,541,96206.43
+9,Bangalore,Electronics,Wholesale,68,1424.9,83635.36,18.36,1104,288132.3
+8,Hyderabad,Groceries,Online,159,3613.58,78226.98,22.6,1324,255941.53
+1,Mumbai,Groceries,Retail Store,107,3350.95,52529.98,28.08,1072,182074.79
+10,Hyderabad,Electronics,Online,114,2366.23,77946.45,3.5,1169,460000.26
+6,Hyderabad,Electronics,Wholesale,89,3235.74,30448.18,27.79,1254,173234.17
+1,Mumbai,Groceries,Wholesale,62,965.57,61003.1,18.04,582,109105.76
+5,Mumbai,Clothing,Online,122,3431.98,87192.43,23.0,140,197876.42
+6,Delhi,Electronics,Retail Store,129,1498.93,35208.53,1.61,539,249794.51
+2,Delhi,Sports,Wholesale,181,1509.61,50937.25,15.18,1144,232250.69
+12,Bangalore,Furniture,Wholesale,126,978.46,95349.26,18.68,1232,313034.08
+3,Bangalore,Electronics,Retail Store,200,1795.41,80830.12,9.21,794,470467.27
+4,Delhi,Sports,Online,167,1790.01,89268.71,12.95,1178,414232.48
+6,Bangalore,Electronics,Wholesale,20,2380.06,41598.47,16.63,158,85062.39
+10,Hyderabad,Clothing,Wholesale,81,1114.01,99668.0,16.58,983,204107.4
+9,Mumbai,Sports,Retail Store,80,1126.44,19493.73,1.26,1034,229485.5
+10,Mumbai,Clothing,Wholesale,5,2800.35,54283.21,13.18,786,139699.83
+3,Mumbai,Clothing,Online,40,818.61,50530.97,6.41,1088,214503.96
+11,Bangalore,Furniture,Retail Store,154,3506.71,80851.06,27.5,762,331931.55
+10,Mumbai,Electronics,Online,74,4730.95,91318.69,29.3,809,361145.31
+6,Hyderabad,Clothing,Wholesale,33,2248.62,74458.24,8.99,925,142923.34
+7,Mumbai,Sports,Wholesale,61,4525.31,64547.54,5.26,1201,331517.23
+1,Bangalore,Electronics,Wholesale,58,671.92,45605.77,6.59,410,143844.41
+10,Mumbai,Sports,Retail Store,39,406.2,53480.96,14.33,485,97634.69
+12,Delhi,Clothing,Online,24,3662.57,53383.53,26.24,657,180862.67
+6,Hyderabad,Clothing,Online,154,3852.9,6935.01,15.0,342,223054.85
+7,Mumbai,Electronics,Retail Store,166,4246.68,52789.35,1.66,534,607195.61
+6,Mumbai,Groceries,Wholesale,102,472.72,86317.23,1.2,558,227015.33
+1,Hyderabad,Electronics,Online,125,3929.15,72381.03,6.82,505,449535.86
+8,Chennai,Furniture,Wholesale,185,2007.39,80592.32,25.28,644,243494.74
+9,Hyderabad,Groceries,Online,170,1656.02,42096.07,18.64,781,273973.75
+12,Chennai,Electronics,Retail Store,11,1030.51,55252.46,16.89,1059,266126.26
+12,Chennai,Clothing,Online,191,4980.88,8180.94,9.57,489,360368.01
+6,Bangalore,Clothing,Retail Store,18,505.59,41384.8,27.88,1276,245373.66
+12,Hyderabad,Electronics,Retail Store,10,4169.64,50069.52,9.94,745,194707.23
+7,Mumbai,Furniture,Online,84,3269.57,29244.85,25.05,1095,299721.28
+8,Bangalore,Furniture,Retail Store,151,3728.39,7967.89,26.88,216,106123.8
+8,Bangalore,Groceries,Wholesale,20,3616.24,70588.77,14.5,302,131129.8
+12,Chennai,Sports,Wholesale,62,4320.49,46333.34,26.83,707,134239.9
+9,Chennai,Sports,Online,56,1082.2,44489.43,8.3,581,138566.5
+2,Bangalore,Electronics,Wholesale,82,203.96,28748.74,19.75,769,175390.26
+1,Hyderabad,Electronics,Wholesale,198,3072.94,56093.89,2.64,279,346194.94
+5,Mumbai,Electronics,Wholesale,69,1898.52,46612.54,14.22,736,170789.5
+7,Chennai,Clothing,Retail Store,45,794.18,50028.52,6.52,1045,130698.66
+9,Bangalore,Electronics,Wholesale,28,1093.47,60182.78,1.88,1106,244950.02
+6,Bangalore,Furniture,Retail Store,43,1792.4,5600.84,0.11,409,94297.51
+7,Hyderabad,Sports,Online,31,537.12,91231.11,9.74,549,207241.29
+12,Hyderabad,Sports,Online,117,473.18,11753.3,17.69,811,162800.16
+5,Delhi,Sports,Wholesale,87,4596.93,47837.85,13.66,801,281190.57
+6,Mumbai,Furniture,Online,102,1698.09,24700.42,9.05,1198,358711.84
+7,Delhi,Groceries,Retail Store,168,,54759.33,29.74,615,209911.45
+6,Hyderabad,Groceries,Wholesale,118,4828.96,31621.86,28.19,1022,172807.37
+12,Delhi,Electronics,Online,35,884.34,86700.62,3.77,1331,434633.78
+12,Mumbai,Clothing,Retail Store,78,3631.64,42654.18,12.45,482,242628.86
+7,Bangalore,Clothing,Online,66,3083.86,65681.78,19.47,1243,336276.54
+6,Hyderabad,Furniture,Retail Store,167,3515.11,28643.57,22.0,532,220770.73
+8,Bangalore,Groceries,Online,65,661.72,6843.58,10.99,534,141330.16
+3,Chennai,Groceries,Wholesale,32,1105.09,43394.68,22.39,997,51562.79
+6,Chennai,Clothing,Online,149,567.87,55966.22,3.72,951,196275.04
+3,Delhi,Groceries,Wholesale,88,3099.84,48656.98,9.95,846,182360.42
+2,Chennai,Groceries,Wholesale,23,4935.64,96391.36,21.49,385,149538.21
+2,Hyderabad,Clothing,Wholesale,140,3425.53,72149.72,18.77,189,197319.44
+8,Hyderabad,Furniture,Wholesale,46,3611.66,99588.63,25.12,1367,245162.49
+1,Delhi,Groceries,Online,175,4926.01,33030.71,1.41,1317,586473.83
+8,Hyderabad,Groceries,Wholesale,168,3454.46,79960.06,5.23,1335,296638.52
+6,Hyderabad,Sports,Retail Store,77,392.87,57778.05,1.45,793,141655.7
+5,Bangalore,Electronics,Wholesale,113,4361.63,63117.23,5.76,1332,501805.26
+10,Delhi,Clothing,Wholesale,116,1950.46,98656.05,0.13,736,256732.57
+7,Bangalore,Sports,Retail Store,133,220.95,67128.78,15.13,159,74898.63
+9,Chennai,Clothing,Retail Store,18,2634.72,90387.6,15.85,337,158182.57
+9,Hyderabad,Sports,Online,68,4697.67,73946.27,19.74,445,242767.5
+1,Delhi,Electronics,Online,38,1435.19,17101.68,11.55,596,196420.2
+3,Chennai,Electronics,Retail Store,141,2559.26,71445.25,0.1,1411,455293.03
+7,Chennai,Groceries,Wholesale,18,1034.13,51009.98,20.22,532,93309.04
+12,Delhi,Furniture,Retail Store,106,476.92,92285.81,1.63,938,299146.96
+2,Chennai,Clothing,Retail Store,147,586.62,81649.27,25.99,442,178692.62
+2,Bangalore,Clothing,Online,190,3689.65,14892.8,0.68,982,400752.69
+12,Bangalore,Clothing,Retail Store,61,4347.56,17721.99,15.91,872,182758.92
+12,Bangalore,Sports,Retail Store,6,887.83,11613.05,26.85,268,73526.67
+3,Hyderabad,Electronics,Wholesale,146,1583.93,51858.26,17.17,720,177623.22
+5,Chennai,Groceries,Wholesale,5,1136.14,12673.32,18.25,202,27605.32
+8,Hyderabad,Sports,Retail Store,18,328.91,73749.44,20.45,1339,246629.52
+3,Chennai,Groceries,Wholesale,199,2856.47,57474.07,3.67,1070,256401.43
+4,Chennai,Furniture,Retail Store,174,3559.63,84409.08,20.25,1414,388643.19
+5,Delhi,Electronics,Wholesale,143,3309.81,31580.6,26.41,1319,321069.83
+8,Mumbai,Groceries,Retail Store,168,2062.66,54318.37,29.23,368,127099.23
+4,Hyderabad,Clothing,Online,19,2864.05,16160.57,13.29,1075,153774.84
+5,Bangalore,Electronics,Retail Store,22,651.68,89037.95,10.34,195,174977.47
+4,Delhi,Furniture,Online,63,940.66,21625.47,22.6,1442,288756.08
+10,Delhi,Sports,Online,9,4672.61,14724.41,16.29,1188,175538.05
+2,Bangalore,Furniture,Wholesale,179,3855.24,24479.81,7.72,1036,430631.91
+3,Hyderabad,Electronics,Wholesale,16,4629.15,81591.99,5.16,1492,307290.07
+3,Delhi,Groceries,Online,111,4600.07,15052.38,5.11,1278,399030.33
+11,Delhi,Electronics,Wholesale,172,3317.08,63370.61,13.78,1302,482521.8
+12,Delhi,Sports,Online,149,4655.55,75887.22,5.1,195,483627.74
+7,Bangalore,Sports,Online,51,2200.18,76352.71,0.59,84,154127.4
+2,Delhi,Sports,Wholesale,97,217.36,23055.78,1.56,1443,194935.54
+10,Bangalore,Sports,Online,112,500.34,10854.28,27.9,414,65926.9
+6,Bangalore,Furniture,Wholesale,155,725.54,47636.61,2.19,668,182403.23
+11,Bangalore,Furniture,Wholesale,88,657.7,24236.11,2.2,112,124828.86
+5,Hyderabad,Furniture,Online,60,1888.17,71430.73,13.54,953,317728.17
+12,Bangalore,Clothing,Online,160,3566.1,38885.82,7.35,1240,421971.82
+10,Hyderabad,Sports,Wholesale,178,3995.11,47688.62,28.88,1270,224785.36
+3,Hyderabad,Groceries,Retail Store,100,3033.02,15781.07,27.33,893,126004.74
+9,Chennai,Groceries,Retail Store,10,902.89,58917.28,12.14,1008,177360.63
+4,Hyderabad,Sports,Retail Store,103,3789.93,22624.8,13.46,794,169356.43
+5,Bangalore,Groceries,Retail Store,179,1903.05,69503.64,11.25,696,196996.58
+4,Bangalore,Furniture,Wholesale,198,262.37,11761.04,1.14,853,173760.21
+9,Mumbai,Clothing,Retail Store,83,1546.83,97709.99,8.79,1407,287739.35
+4,Bangalore,Clothing,Online,34,1786.88,70030.06,3.68,416,161294.59
+8,Delhi,Electronics,Retail Store,117,1516.38,22264.31,3.07,731,265950.17
+7,Chennai,Groceries,Wholesale,167,4096.98,6338.99,16.83,922,205037.69
+10,Chennai,Groceries,Online,190,3847.65,36773.97,2.96,876,376381.52
+12,Delhi,Groceries,Retail Store,15,3538.65,19517.26,3.09,94,57181.89
+1,Hyderabad,Clothing,Wholesale,61,867.22,25749.08,14.42,466,101915.22
+12,Delhi,Groceries,Retail Store,98,4077.6,87911.27,13.27,986,313333.67
+2,Hyderabad,Sports,Online,24,3450.44,62304.44,4.13,1056,229438.33
+7,Delhi,Clothing,Online,178,1135.22,21763.48,0.13,1114,282250.7
+5,Bangalore,Clothing,Retail Store,26,3310.85,57882.64,5.79,1487,299534.94
+8,Hyderabad,Electronics,Retail Store,135,2520.86,29299.16,7.08,1025,393437.47
+9,Hyderabad,Groceries,Wholesale,185,2308.88,97739.08,24.01,890,226972.26
+11,Bangalore,Sports,Retail Store,139,738.19,8111.94,27.46,531,150514.44
+5,Chennai,Groceries,Wholesale,154,2687.86,74570.25,12.18,587,166624.11
+12,Hyderabad,Sports,Online,56,679.67,78434.72,12.15,1248,273376.67
+4,Mumbai,Sports,Retail Store,167,,11380.46,21.37,729,149722.21
+3,Hyderabad,Groceries,Online,87,836.22,21327.59,18.81,1087,153094.39
+5,Hyderabad,Clothing,Retail Store,17,4779.72,41509.13,5.52,229,65983.89
+7,Mumbai,Electronics,Online,76,1567.35,87474.71,3.23,236,319063.57
+9,Hyderabad,Electronics,Retail Store,73,1904.98,56014.99,13.13,362,211374.44
+10,Chennai,Furniture,Retail Store,107,1745.99,67254.15,16.94,332,163265.61
+3,Chennai,Clothing,Online,56,4511.6,79386.22,4.16,930,296466.19
+4,Hyderabad,Groceries,Online,95,2902.24,83671.66,8.8,973,275004.42
+12,Hyderabad,Clothing,Retail Store,88,4611.97,50247.03,9.18,858,290090.6
+6,Mumbai,Electronics,Wholesale,69,1639.64,53335.35,7.84,469,162118.45
+3,Hyderabad,Furniture,Online,141,751.21,73210.56,13.82,886,254773.13
+12,Mumbai,Sports,Retail Store,64,2869.85,30017.52,19.59,223,127220.23
+6,Bangalore,Sports,Online,155,1858.58,86176.52,15.28,735,343776.07
+12,Mumbai,Furniture,Wholesale,54,4049.15,6974.75,6.04,274,133614.84
+12,Mumbai,Sports,Retail Store,174,4421.23,23598.3,3.09,161,337005.55
+11,Delhi,Groceries,Wholesale,76,2468.35,81018.99,24.66,290,100037.25
+7,Chennai,Sports,Online,12,4862.52,37324.53,14.38,211,93204.62
+10,Delhi,Sports,Online,34,2854.46,19234.12,1.86,742,203220.91
+12,Delhi,Groceries,Retail Store,163,1500.42,22741.7,7.74,841,257209.06
+4,Chennai,Furniture,Retail Store,175,2547.08,55421.86,24.12,930,260112.69
+1,Bangalore,Groceries,Wholesale,46,379.09,85387.25,22.55,687,148214.7
+4,Bangalore,Furniture,Wholesale,123,4059.21,11711.82,26.27,305,117601.07
+8,Hyderabad,Furniture,Wholesale,117,686.89,7895.69,18.06,80,79703.96
+7,Mumbai,Groceries,Retail Store,31,1681.99,49190.97,12.69,1083,184425.44
+1,Delhi,Clothing,Retail Store,93,2913.52,95837.8,12.8,1474,344656.46
+7,Hyderabad,Clothing,Retail Store,140,406.28,31505.93,5.82,457,75068.57
+3,Delhi,Furniture,Online,194,580.72,96121.2,19.52,346,267649.19
+7,Bangalore,Clothing,Retail Store,171,3541.36,89329.71,17.55,501,309868.88
+7,Chennai,Electronics,Retail Store,24,544.53,31897.83,4.65,360,87114.5
+8,Chennai,Groceries,Online,51,2490.0,82610.07,26.57,374,134610.48
+5,Mumbai,Clothing,Online,90,1825.74,70157.39,11.05,767,275563.34
+5,Hyderabad,Sports,Retail Store,34,1294.78,53623.13,1.49,1188,215084.79
+9,Hyderabad,Clothing,Retail Store,116,1106.14,45177.03,9.84,1082,191477.87
+9,Bangalore,Clothing,Wholesale,6,3864.37,82472.76,26.1,1441,235360.91
+10,Delhi,Electronics,Retail Store,27,4767.4,80342.55,27.51,568,253523.02
+5,Mumbai,Electronics,Wholesale,14,872.86,76908.95,14.71,764,224983.98
+6,Hyderabad,Furniture,Retail Store,62,4806.47,99834.32,28.69,601,211043.83
+4,Chennai,Furniture,Online,154,3054.86,50458.68,26.26,110,98679.07
+7,Delhi,Furniture,Online,39,3279.97,81657.68,24.76,613,251880.97
+2,Hyderabad,Furniture,Wholesale,198,3607.65,86935.44,25.79,427,205953.35
+6,Chennai,Groceries,Retail Store,57,3579.77,25102.25,11.46,744,134676.73
+3,Chennai,Electronics,Online,13,4135.09,8996.31,22.69,279,78676.56
+7,Bangalore,Furniture,Retail Store,70,2520.65,43451.1,17.32,1125,310617.93
+11,Delhi,Electronics,Wholesale,151,2760.12,86389.99,21.59,1272,417178.54
+12,Mumbai,Furniture,Retail Store,25,1754.37,32464.81,5.33,1443,329231.41
+6,Chennai,Groceries,Online,19,705.24,71500.96,21.94,173,87059.61
+1,Chennai,Electronics,Online,171,3390.27,5698.07,28.73,220,84097.84
+3,Hyderabad,Furniture,Wholesale,121,361.33,38759.62,9.08,1451,193087.4
+2,Delhi,Electronics,Wholesale,72,1523.05,63474.09,29.58,1279,263387.51
+10,Delhi,Sports,Wholesale,153,652.3,17326.93,11.35,903,170075.71
+12,Bangalore,Groceries,Wholesale,170,1115.49,90177.66,5.99,516,180017.62
+7,Bangalore,Furniture,Online,75,3265.91,19846.03,3.37,800,310503.91
+3,Delhi,Electronics,Online,114,3216.69,91430.39,23.55,826,353887.22
+1,Hyderabad,Electronics,Online,7,2221.06,25556.98,16.64,1278,207344.0
+12,Bangalore,Clothing,Online,65,632.83,99456.47,9.21,817,293745.53
+4,Delhi,Groceries,Wholesale,121,2280.19,62451.13,18.25,89,95959.8
+2,Delhi,Clothing,Wholesale,43,1893.18,13012.76,9.96,1064,124862.04
+3,Bangalore,Sports,Online,199,3658.2,11201.34,13.45,1176,407883.34
+4,Hyderabad,Furniture,Wholesale,195,2979.33,12117.56,25.88,482,146788.65
+8,Chennai,Furniture,Retail Store,55,2559.52,61039.81,20.04,219,173786.57
+11,Bangalore,Clothing,Online,82,2537.51,81910.02,22.87,256,175124.69
+4,Mumbai,Furniture,Wholesale,42,4838.23,43281.46,17.5,1269,275408.21
+9,Chennai,Sports,Wholesale,103,3830.21,47259.4,29.74,698,179321.14
+1,Bangalore,Electronics,Retail Store,29,2585.5,60982.33,7.24,817,215073.69
+1,Mumbai,Clothing,Wholesale,81,2500.27,55638.86,7.87,1442,338239.22
+1,Bangalore,Clothing,Retail Store,113,327.1,70365.86,2.78,138,181391.67
+12,Delhi,Electronics,Wholesale,124,,49819.64,16.62,348,207722.31
+7,Mumbai,Clothing,Retail Store,121,1732.04,72816.77,18.4,1258,294771.15
+10,Bangalore,Clothing,Wholesale,48,1428.51,99744.52,21.78,833,191344.84
+1,Chennai,Furniture,Online,160,4997.16,38278.3,10.06,89,323240.43
+1,Hyderabad,Electronics,Online,140,3649.71,6160.47,0.37,1069,462911.39
+11,Hyderabad,Electronics,Wholesale,152,427.35,16934.38,18.97,250,109124.51
+2,Bangalore,Electronics,Online,96,497.05,57583.85,29.96,1184,331618.06
+2,Delhi,Clothing,Online,179,322.41,37704.49,8.84,1206,203206.84
+7,Mumbai,Electronics,Wholesale,81,3078.17,94298.35,5.52,1245,441129.42
+8,Chennai,Sports,Online,162,543.51,64607.38,8.45,724,221899.82
+3,Delhi,Furniture,Retail Store,44,4680.26,54433.74,12.76,438,168123.28
+6,Chennai,Groceries,Online,53,4697.15,80813.75,7.53,1328,242704.7
+9,Hyderabad,Groceries,Online,108,2821.06,29566.04,10.41,860,277396.39
+6,Mumbai,Clothing,Wholesale,113,3159.87,82875.16,19.15,971,243188.29
+5,Hyderabad,Sports,Online,151,1601.09,5290.8,10.35,247,120941.13
+1,Chennai,Electronics,Online,63,507.07,63869.35,11.88,954,241252.51
+6,Delhi,Furniture,Wholesale,176,3739.81,93801.93,1.2,891,525745.65
+10,Delhi,Furniture,Wholesale,69,688.57,79846.7,27.54,473,225090.5
+8,Hyderabad,Electronics,Online,109,610.68,86095.25,12.21,1161,372809.75
+11,Chennai,Furniture,Wholesale,187,1693.87,42710.7,9.84,243,126406.13
+2,Delhi,Furniture,Retail Store,110,259.84,83302.7,2.59,1093,241504.71
+1,Hyderabad,Groceries,Wholesale,138,2283.37,57329.01,19.03,1443,198314.94
+7,Delhi,Furniture,Online,183,3596.87,63761.32,25.91,872,334197.66
+3,Hyderabad,Sports,Wholesale,196,4046.47,10596.96,1.23,201,255884.98
+8,Hyderabad,Groceries,Retail Store,102,3100.68,24147.41,4.36,852,234316.59
+11,Delhi,Sports,Wholesale,86,4265.0,57341.62,4.39,817,269539.06
+5,Hyderabad,Electronics,Retail Store,43,2151.21,10586.1,18.07,850,217188.79
+7,Chennai,Sports,Wholesale,110,4274.11,75437.45,27.64,445,209998.54
+9,Chennai,Groceries,Retail Store,184,2631.07,84805.42,13.13,957,262021.32
+2,Delhi,Sports,Online,100,1270.57,92434.42,10.31,433,245172.61
+11,Mumbai,Furniture,Wholesale,73,4731.9,14668.0,22.98,858,174841.91
+3,Mumbai,Sports,Wholesale,26,1519.86,94273.42,22.28,912,245757.38
+10,Bangalore,Clothing,Online,81,325.77,11423.9,7.4,986,165607.07
+8,Delhi,Electronics,Retail Store,51,1364.84,50035.34,4.82,1207,290421.18
+2,Chennai,Clothing,Retail Store,196,1960.1,84823.85,10.73,1329,298860.96
+9,Hyderabad,Electronics,Retail Store,108,1886.48,11679.56,23.27,1176,227757.91
+3,Chennai,Sports,Wholesale,31,2718.4,6731.95,20.85,1204,134797.37
+8,Delhi,Furniture,Wholesale,18,4439.01,7370.03,19.98,1309,237096.66
+12,Delhi,Furniture,Online,171,1603.22,53570.67,24.88,401,183876.17
+12,Chennai,Clothing,Wholesale,187,2699.7,82101.69,8.31,474,297451.14
+11,Mumbai,Clothing,Retail Store,154,1832.67,17105.53,10.19,822,191950.67
+6,Hyderabad,Electronics,Wholesale,29,4144.51,16837.97,1.27,725,225005.59
+7,Chennai,Sports,Wholesale,24,956.49,59011.95,26.06,1068,142344.96
+4,Delhi,Sports,Retail Store,43,696.85,27258.08,17.47,63,53392.88
+12,Delhi,Groceries,Retail Store,152,2614.38,74370.3,8.94,251,213889.2
+6,Delhi,Groceries,Retail Store,155,3425.06,95215.36,2.08,1132,400067.9
+10,Delhi,Clothing,Wholesale,169,4018.52,77773.17,21.7,1241,337290.42
+5,Delhi,Clothing,Retail Store,23,3030.2,88331.66,22.46,488,213632.09
+9,Chennai,Clothing,Online,35,3914.48,54360.68,19.99,500,185693.34
+3,Hyderabad,Electronics,Retail Store,181,2085.01,84070.33,6.11,864,385781.88
+9,Chennai,Electronics,Online,187,357.76,22375.8,27.4,741,179148.27
+1,Chennai,Furniture,Retail Store,147,757.28,11493.05,22.59,295,44644.41
+2,Chennai,Clothing,Online,25,385.87,67315.55,19.73,775,130877.79
+5,Mumbai,Electronics,Online,18,1778.93,9935.49,19.53,1238,250124.79
+6,Mumbai,Electronics,Wholesale,15,2578.36,89785.73,27.13,1107,296595.49
+9,Chennai,Sports,Online,140,1910.32,70697.64,27.85,1235,282889.71
+5,Mumbai,Furniture,Retail Store,170,2890.88,95459.07,17.87,983,361669.24
+1,Delhi,Clothing,Wholesale,128,2506.92,34819.23,12.5,1322,247137.42
+4,Hyderabad,Clothing,Wholesale,56,3454.13,51185.04,10.91,412,175214.99
+6,Chennai,Groceries,Retail Store,153,3401.42,75460.58,24.57,116,164308.13
+7,Chennai,Groceries,Online,16,1726.71,28064.0,19.34,215,47036.22
+8,Chennai,Furniture,Wholesale,167,1861.83,56475.64,2.32,1489,299647.27
+3,Delhi,Sports,Wholesale,179,3008.71,67649.39,4.27,978,391638.53
+8,Hyderabad,Furniture,Retail Store,145,3062.88,97986.82,27.01,409,152479.53
+8,Chennai,Sports,Online,177,1710.56,75746.81,26.53,1288,327259.98
+10,Hyderabad,Clothing,Online,119,1785.53,16222.43,28.55,498,104227.76
+7,Chennai,Electronics,Online,96,3531.42,50156.68,12.84,916,398961.67
+10,Chennai,Groceries,Online,68,3307.57,60933.22,23.52,411,89837.07
+3,Bangalore,Electronics,Wholesale,185,848.24,18929.2,24.85,187,109776.9
+9,Delhi,Groceries,Online,141,2317.0,46036.78,9.47,437,214584.85
+1,Bangalore,Electronics,Online,42,4484.99,31980.55,4.36,380,227600.51
+2,Mumbai,Furniture,Wholesale,192,374.27,16288.62,29.91,851,104846.52
+11,Delhi,Groceries,Wholesale,16,4304.79,53643.98,0.91,80,111320.67
+6,Delhi,Sports,Online,120,983.26,20735.14,17.92,397,146698.14
+8,Hyderabad,Clothing,Retail Store,42,2634.79,61101.05,19.51,873,235440.93
+8,Bangalore,Electronics,Retail Store,135,2236.81,21121.21,20.45,620,258003.07
+9,Bangalore,Furniture,Retail Store,85,248.62,73741.52,7.67,972,252001.77
+3,Hyderabad,Sports,Wholesale,90,4593.91,23547.95,21.65,1000,157727.42
+3,Bangalore,Groceries,Wholesale,136,2383.64,90147.08,6.49,1449,276861.95
+1,Hyderabad,Electronics,Wholesale,153,4780.49,7489.89,24.87,1262,314775.33
+11,Delhi,Furniture,Online,79,1576.37,54589.75,6.57,380,192452.9
+3,Chennai,Furniture,Online,200,4358.12,35409.95,20.9,1054,408437.77
+7,Bangalore,Electronics,Retail Store,102,4627.47,26382.27,23.5,959,326149.87
+6,Delhi,Sports,Online,36,,49802.26,5.67,911,265722.56
+2,Chennai,Groceries,Retail Store,6,1172.85,84991.86,7.14,1208,177406.94
+5,Hyderabad,Electronics,Online,44,3489.19,91951.33,23.37,264,231730.26
+1,Delhi,Groceries,Wholesale,140,2835.09,33808.62,2.58,594,207206.22
+3,Delhi,Clothing,Online,110,4733.74,19653.14,5.72,1233,383749.68
+2,Delhi,Electronics,Online,71,2308.51,73413.34,13.67,1343,458290.98
+10,Mumbai,Clothing,Online,99,1488.87,60289.88,27.91,104,116669.97
+7,Delhi,Electronics,Online,169,863.78,24096.53,16.86,733,213488.93
+12,Hyderabad,Furniture,Retail Store,117,3553.44,77228.1,11.63,433,305504.19
+6,Bangalore,Sports,Retail Store,16,4875.73,54298.39,29.35,293,119679.23
+3,Chennai,Groceries,Wholesale,14,336.05,67072.54,13.91,132,78565.6
+8,Hyderabad,Electronics,Online,99,3754.14,39137.21,13.01,830,327265.56
+12,Hyderabad,Sports,Retail Store,84,4649.27,46714.27,12.35,1017,256356.82
+7,Bangalore,Clothing,Retail Store,171,558.95,22132.5,9.37,820,221029.15
+1,Delhi,Sports,Retail Store,119,728.82,76869.01,9.77,584,242566.71
+4,Delhi,Groceries,Wholesale,153,3521.39,19916.08,20.64,1168,236146.48
+12,Hyderabad,Furniture,Online,119,3310.22,78938.75,1.23,995,443895.33
+7,Delhi,Clothing,Retail Store,72,530.37,80810.75,20.45,1367,258637.11
+12,Delhi,Clothing,Wholesale,133,4205.23,75927.09,6.04,553,356642.08
+7,Mumbai,Groceries,Wholesale,126,2712.43,6845.16,11.53,396,128902.86
+1,Chennai,Furniture,Retail Store,146,4554.55,30947.66,4.4,710,352628.29
+11,Bangalore,Furniture,Retail Store,42,4414.36,49492.09,16.58,784,311215.22
+10,Hyderabad,Furniture,Wholesale,130,4100.04,61576.72,21.88,714,237572.8
+9,Bangalore,Furniture,Retail Store,60,2676.31,92326.1,10.64,1256,439940.3
+12,Delhi,Electronics,Wholesale,159,1408.21,40682.57,4.9,116,143700.74
+3,Mumbai,Electronics,Online,161,2628.68,88127.22,6.8,815,564522.4
+11,Delhi,Sports,Retail Store,127,683.89,20525.78,24.54,673,207837.78
+3,Hyderabad,Electronics,Online,190,3362.46,40271.65,8.03,355,400653.41
+12,Delhi,Sports,Online,110,843.09,9966.79,23.24,979,190193.87
+3,Mumbai,Electronics,Retail Store,9,2653.63,75536.48,9.94,1211,312306.0
+7,Chennai,Groceries,Online,123,461.03,19312.01,5.66,841,167895.7
+10,Bangalore,Furniture,Retail Store,157,1637.66,29416.9,21.82,173,109691.06
+1,Bangalore,Clothing,Retail Store,24,1313.99,78647.16,14.06,159,110217.6
+1,Bangalore,Furniture,Retail Store,25,3176.15,55798.09,0.94,661,178722.55
+11,Hyderabad,Clothing,Wholesale,58,3976.58,6327.41,28.8,1018,181355.85
+1,Mumbai,Clothing,Wholesale,170,475.05,5212.34,4.43,504,125794.59
+8,Hyderabad,Clothing,Retail Store,108,4281.36,53512.76,10.6,497,232649.5
+12,Chennai,Furniture,Online,196,4331.68,33970.77,11.54,1297,482070.51
+8,Bangalore,Clothing,Wholesale,176,1842.89,22129.59,14.68,70,159005.39
+6,Bangalore,Sports,Online,113,3363.22,63291.42,23.56,165,174501.53
+6,Delhi,Clothing,Retail Store,138,2132.54,26701.46,0.18,275,157831.16
+8,Mumbai,Furniture,Retail Store,69,,61259.68,27.97,1476,283219.57
+7,Chennai,Electronics,Online,22,2737.58,41030.27,19.38,771,187381.49
+7,Bangalore,Furniture,Retail Store,83,614.53,22740.89,28.52,279,46230.86
+2,Mumbai,Electronics,Online,121,4416.67,18119.95,24.52,500,224377.5
+8,Bangalore,Electronics,Online,40,4636.59,27501.76,27.84,1455,392177.29
+9,Bangalore,Sports,Retail Store,48,4143.74,7834.05,18.03,1056,207355.2
+9,Bangalore,Electronics,Online,7,2900.13,34272.06,10.72,374,165874.84
+1,Hyderabad,Clothing,Wholesale,148,2876.47,90685.7,13.29,398,174649.06
+9,Mumbai,Sports,Online,181,4926.12,83979.4,19.74,158,367464.84
+9,Hyderabad,Sports,Retail Store,167,1389.93,40340.36,12.81,1170,314226.23
+3,Bangalore,Electronics,Wholesale,79,564.55,59704.19,21.95,249,119129.38
+11,Chennai,Electronics,Online,121,2897.32,58899.25,2.76,465,360545.61
+7,Delhi,Furniture,Wholesale,193,1778.17,83730.07,24.9,555,173557.37
+6,Delhi,Clothing,Wholesale,120,1747.23,27447.56,6.13,950,244759.6
+9,Bangalore,Sports,Wholesale,62,234.01,33156.81,28.32,929,151796.18
+7,Bangalore,Furniture,Online,71,3061.95,33669.62,4.67,1208,410432.4
+7,Hyderabad,Electronics,Wholesale,147,1467.36,8882.65,3.87,481,167335.63
+4,Bangalore,Furniture,Wholesale,92,1101.72,34895.35,24.36,609,161833.38
+12,Chennai,Sports,Wholesale,169,394.07,88401.81,24.56,613,185669.38
+12,Bangalore,Electronics,Online,174,1948.94,91638.83,22.16,117,263762.41
+2,Delhi,Furniture,Wholesale,12,4419.05,15415.36,28.82,1119,203621.04
+9,Delhi,Electronics,Online,146,1816.02,48515.56,8.12,826,355878.85
+1,Chennai,Electronics,Retail Store,77,3459.56,41228.15,24.8,739,218648.78
+5,Delhi,Sports,Retail Store,106,3831.43,51489.12,10.56,1493,385876.59
+12,Chennai,Electronics,Retail Store,56,1774.88,57698.35,16.12,309,172072.57
+3,Mumbai,Furniture,Retail Store,77,4143.88,6924.58,13.37,1455,335577.06
+5,Delhi,Sports,Online,69,3521.02,85013.01,0.18,1036,397907.61
+3,Mumbai,Groceries,Retail Store,14,2884.36,97498.09,17.23,370,121430.71
+9,Hyderabad,Electronics,Wholesale,158,204.76,67073.46,22.43,1033,239507.03
+6,Bangalore,Clothing,Retail Store,33,368.44,67742.96,5.24,1145,232471.57
+8,Hyderabad,Sports,Online,78,4956.16,55158.09,27.95,575,172910.77
+12,Hyderabad,Clothing,Wholesale,42,3954.96,,15.91,550,130496.54
+7,Bangalore,Clothing,Online,36,4700.31,19152.89,5.35,1261,285245.85
+9,Hyderabad,Clothing,Retail Store,78,4531.06,,19.38,282,140274.36
+2,Chennai,Groceries,Retail Store,185,298.13,9269.43,5.76,69,28185.93
+3,Bangalore,Electronics,Retail Store,190,4000.87,83327.74,1.91,1015,697935.23
+12,Delhi,Sports,Wholesale,79,2365.5,44986.61,20.56,1364,329683.71
+11,Bangalore,Sports,Retail Store,104,3989.88,44401.65,3.32,776,389105.92
+8,Chennai,Electronics,Wholesale,198,232.24,36081.23,3.19,245,109688.7
+5,Mumbai,Sports,Online,51,1583.36,97088.62,22.2,831,325232.63
+3,Chennai,Sports,Wholesale,190,3806.35,21617.11,1.66,415,240646.73
+11,Bangalore,Groceries,Retail Store,25,4006.5,19374.24,24.29,1249,116960.23
+10,Hyderabad,Furniture,Online,49,3174.63,20725.49,23.88,937,194835.74
+3,Mumbai,Clothing,Online,71,1646.03,67560.11,4.24,537,174091.83
+8,Chennai,Sports,Wholesale,12,1689.74,99230.06,15.55,955,192132.86
+8,Delhi,Electronics,Retail Store,164,4840.47,27370.14,2.9,1017,643796.78
+6,Mumbai,Sports,Retail Store,172,2308.22,91033.65,18.98,1034,384743.3
+12,Bangalore,Sports,Online,80,2346.2,31468.57,1.89,580,213391.31
+2,Bangalore,Groceries,Retail Store,168,2851.2,66550.49,28.33,877,215655.29
+4,Bangalore,Furniture,Wholesale,156,2165.61,8847.4,6.23,111,159196.15
+2,Delhi,Clothing,Online,162,2852.82,52087.13,20.49,635,247579.1
+9,Mumbai,Electronics,Retail Store,162,2275.21,,3.85,598,407520.06
+8,Delhi,Sports,Retail Store,117,4168.23,55950.38,6.29,825,412174.62
+12,Bangalore,Furniture,Wholesale,26,4563.44,27594.36,13.53,1427,276435.83
+7,Mumbai,Electronics,Online,186,4674.13,83707.21,17.19,1432,794669.59
+2,Bangalore,Groceries,Retail Store,124,2908.62,97162.97,29.97,750,179678.08
+6,Bangalore,Groceries,Wholesale,181,2322.31,48623.63,0.78,986,313456.69
+2,Hyderabad,Groceries,Online,192,3585.15,65412.33,0.01,206,339890.04
+9,Bangalore,Electronics,Wholesale,41,4223.95,80089.26,,749,288019.48
+9,Hyderabad,Groceries,Wholesale,83,2902.31,27941.46,10.98,1047,194255.01
+11,Bangalore,Groceries,Wholesale,42,3559.91,87122.79,26.52,1040,202118.75
+5,Hyderabad,Groceries,Retail Store,14,3798.7,31619.09,27.38,1446,101390.62
+4,Hyderabad,Sports,Wholesale,194,3446.69,78703.93,26.42,726,119953.36
+1,Mumbai,Furniture,Wholesale,185,3781.44,15649.43,4.3,1366,535237.75
+5,Mumbai,Furniture,Wholesale,187,1201.5,32396.74,12.36,1469,356137.42
+6,Hyderabad,Sports,Retail Store,178,2592.2,55693.89,22.38,879,296120.8
+10,Mumbai,Clothing,Retail Store,132,3023.69,54867.6,9.38,182,227650.16
+10,Bangalore,Clothing,Retail Store,107,211.89,85790.96,19.9,595,149133.18
+2,Delhi,Furniture,Online,199,4308.62,99632.09,7.11,1158,704623.05
+4,Bangalore,Groceries,Wholesale,113,3128.12,15185.03,9.7,891,197172.92
+7,Bangalore,Groceries,Wholesale,130,819.85,30781.87,25.81,1407,160150.41
+5,Hyderabad,Electronics,Retail Store,46,4118.51,38971.83,7.52,1233,367479.96
+1,Bangalore,Clothing,Online,151,3641.87,50497.25,28.93,141,193964.86
+11,Mumbai,Sports,Retail Store,165,3839.84,51921.43,9.19,1298,509096.03
+9,Chennai,Furniture,Retail Store,137,2081.8,86338.53,0.71,568,298234.5
+7,Bangalore,Furniture,Retail Store,102,4300.17,78203.13,7.65,1237,442764.15

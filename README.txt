@@ -1,4 +1,3 @@
-
 # Sales Prediction Model — Task 03
 
 ## Objective
